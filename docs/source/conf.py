@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'utils_mix'
-copyright = '2025, YuliaKravtsova'
-author = 'YuliaKravtsova'
+copyright = '2025, MariaKhodorova'
+author = 'MariaKhodorova'
 release = '1.0'
 
 # -- General configuration ---------------------------------------------------
